@@ -136,6 +136,26 @@ span {
     padding-top: 10px;
 }
 
+.number-box-shadow {
+    max-width: 68.5%;
+    padding: 2%;
+    margin: 5% auto;
+    border-radius: 25px;
+    box-shadow: 5px 5px 30px 5px #e2e2e2;
+}
+
+.numbers {
+    width: 100%;
+    text-align: center;
+}
+
+.numbers h2 {
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+
+
 footer {
     margin-top: 2%;
     padding: 1% 0 5%;
