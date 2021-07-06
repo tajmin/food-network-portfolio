@@ -154,11 +154,55 @@ span {
     margin-bottom: 0;
 }
 
+#subscription {
+    background-image: linear-gradient(to right, #FC8F49, #FD5231);
+    margin-bottom: 0;
+}
 
+#subscription h2 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+#subscription p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #000000;
+}
+
+input {
+    padding: 20px 60px;
+    border-radius: 10px;
+    border: 2px solid #FFF;
+    margin-right: 3%;
+    margin-top: 2%;
+}
+
+#subscription img {
+    margin-bottom: -4px;
+}
+
+.button-sub {
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background: green;
+    padding:  19px 40px;
+    border-radius: 10px;
+}
+
+.col-two-third {
+    width: 66%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
 
 footer {
-    margin-top: 2%;
-    padding: 1% 0 5%;
+    padding: 2% 0 5%;
     text-align: center;
     background: #000;
 }
