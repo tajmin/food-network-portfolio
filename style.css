@@ -10,10 +10,6 @@ h1 {
     color: #575757;
 }
 
-p {
-    color: #828282;
-    font-size: 25px;
-}
 
 span {
     color: #FB8C47;
@@ -34,6 +30,8 @@ span {
     margin-bottom: 20px;
     line-height: 32px;
     font-weight: 500;
+    color: #828282;
+    font-size: 25px;
 }
 
 #banner-img img {
@@ -53,6 +51,34 @@ span {
     font-size: 22px;
     color: #FFFFFF;
     background-image: linear-gradient(to right, #FC8F49, #FD5231);
-    padding:  22px 33px;
+    padding:  22px 40px;
     border-radius: 30px;
 }
+
+#about-section {
+    background-image: url(images/shapes/7.png);
+    background-repeat: round;
+}
+
+#about-section img {
+    width: 40%;
+    padding-top: 5%;
+    padding-left: 25%;
+}
+
+#about-section h2 {
+    color: #828282;
+    font-size: 50px;
+    padding: 70px 0 0px;
+    margin: 40px 0 5px;
+    font-weight: 600;
+}
+.about-text {
+    width: 70%;
+    padding: 30px 0;
+    margin-bottom: 40px;
+    line-height: 35px;
+    color: #575757;
+    font-size: 20px;
+}
+
